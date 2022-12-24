@@ -4,13 +4,13 @@ Este proyecto lo propusé como proyecto final para el curso que impartimos.
 
 ## Funcionamiento:
 
-![Funcionamiento1](readme1.PNG)
+![Funcionamiento1](img/readme1.PNG)
 
-![Funcionamiento2](readme2.PNG)
+![Funcionamiento2](img/readme2.PNG)
 
-![Funcionamiento3](readme3.PNG)
+![Funcionamiento3](img/readme3.PNG)
 
-![Funcionamiento4](readme4.PNG)
+![Funcionamiento4](img/readme4.PNG)
 
 ### Primera parte del código:
-![Funcionamiento5](readme5.PNG)
+![Funcionamiento5](img/readme5.PNG)
